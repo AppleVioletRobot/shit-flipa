@@ -1,0 +1,21 @@
+{
+  "name": "Alice Studio",
+  "storageKey": "alice-studio-autosave",
+  "exportFilename": "alice-studio.png",
+  "background": "#ffffff",
+  "defaultColour": "#252321",
+  "defaultWidth": 5,
+  "widths": [2, 5, 14],
+  "colours": [
+    { "name": "Charcoal", "hex": "#252321" },
+    { "name": "Grey", "hex": "#8a8985" },
+    { "name": "Brick red", "hex": "#b94f48" },
+    { "name": "Ochre orange", "hex": "#d58a45" },
+    { "name": "Mustard yellow", "hex": "#d5b84b" },
+    { "name": "Sage green", "hex": "#668568" },
+    { "name": "Slate blue", "hex": "#557b98" },
+    { "name": "Muted purple", "hex": "#7b6687" },
+    { "name": "Dusty pink", "hex": "#c78382" },
+    { "name": "Brown", "hex": "#795548" }
+  ]
+}
