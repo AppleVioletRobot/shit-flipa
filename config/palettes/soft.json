@@ -1,0 +1,17 @@
+{
+  "name": "Soft",
+  "colours": [
+    { "name": "Black", "hex": "#171717" },
+    { "name": "White", "hex": "#FFFFFF" },
+    { "name": "Deep rose", "hex": "#CC2C69" },
+    { "name": "Peach", "hex": "#F09376" },
+    { "name": "Custard", "hex": "#FDF587" },
+    { "name": "Apple green", "hex": "#8FCB5A" },
+    { "name": "Pistachio", "hex": "#BBE177" },
+    { "name": "Aqua", "hex": "#71DBD8" },
+    { "name": "Lilac", "hex": "#8589C7" },
+    { "name": "Plum", "hex": "#74536F" },
+    { "name": "Shell pink", "hex": "#E8BADC" },
+    { "name": "Cloud", "hex": "#c9c8c4" }
+  ]
+}
