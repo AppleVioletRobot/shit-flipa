@@ -1,0 +1,15 @@
+{
+  "name": "Greyscale",
+  "colours": [
+    { "name": "Black", "hex": "#171717" },
+    { "name": "Graphite", "hex": "#343434" },
+    { "name": "Dark grey", "hex": "#515151" },
+    { "name": "Grey 1", "hex": "#6d6d6d" },
+    { "name": "Grey 2", "hex": "#898989" },
+    { "name": "Grey 3", "hex": "#a2a2a2" },
+    { "name": "Grey 4", "hex": "#bababa" },
+    { "name": "Grey 5", "hex": "#d0d0d0" },
+    { "name": "Pale grey", "hex": "#e1e1e1" },
+    { "name": "Near white", "hex": "#f1f1f1" }
+  ]
+}
