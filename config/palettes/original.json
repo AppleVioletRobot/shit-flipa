@@ -1,0 +1,17 @@
+{
+  "name": "Original",
+  "colours": [
+    { "name": "Black", "hex": "#171717" },
+    { "name": "White", "hex": "#FFFFFF" },
+    { "name": "Brick red", "hex": "#b94f48" },
+    { "name": "Ochre orange", "hex": "#d58a45" },
+    { "name": "Mustard yellow", "hex": "#d5b84b" },
+    { "name": "Sage green", "hex": "#668568" },
+    { "name": "Slate blue", "hex": "#557b98" },
+    { "name": "Dark navy", "hex": "#26384A" },
+    { "name": "Muted purple", "hex": "#7b6687" },
+    { "name": "Dusty pink", "hex": "#c78382" },
+    { "name": "Brown", "hex": "#795548" },
+    { "name": "Grey", "hex": "#8a8985" }
+  ]
+}
