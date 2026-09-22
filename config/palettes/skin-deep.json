@@ -1,0 +1,17 @@
+{
+  "name": "Skin Deep",
+  "colours": [
+    { "name": "Black", "hex": "#171717" },
+    { "name": "White", "hex": "#FFFFFF" },
+    { "name": "Porcelain", "hex": "#F6D7C3" },
+    { "name": "Peach", "hex": "#EBC0A4" },
+    { "name": "Rose Beige", "hex": "#D9A184" },
+    { "name": "Golden", "hex": "#C98E62" },
+    { "name": "Olive", "hex": "#B7835D" },
+    { "name": "Caramel", "hex": "#A96F4E" },
+    { "name": "Chestnut", "hex": "#87543E" },
+    { "name": "Umber", "hex": "#684132" },
+    { "name": "Cocoa", "hex": "#4D3028" },
+    { "name": "Deep", "hex": "#35231F" }
+  ]
+}
