@@ -35,3 +35,6 @@
 .canvas-wrap.scratch-transparent .canvas-stack{background-color:#f4f4f1;background-image:linear-gradient(45deg,#cfcfca 25%,transparent 25%),linear-gradient(-45deg,#cfcfca 25%,transparent 25%),linear-gradient(45deg,transparent 75%,#cfcfca 75%),linear-gradient(-45deg,transparent 75%,#cfcfca 75%);background-size:20px 20px;background-position:0 0,0 10px,10px -10px,-10px 0}.canvas-wrap.scratch-transparent #canvas{background:transparent!important}
 
 #project-save.pressed{transform:translate(2px,2px);box-shadow:none;background:#d8ff58}
+
+/* Draw recording: green circle means ready; red square means recording mode is armed. */
+.flipa-bar .record-draw{background:#72a873;display:grid;place-items:center;padding:0}.record-symbol{display:block;width:14px;height:14px;border-radius:50%;background:#171717}.flipa-bar .record-draw.active{background:#e05b4f;box-shadow:2px 2px 0 #171717}.record-draw.active .record-symbol{border-radius:1px;width:13px;height:13px}
