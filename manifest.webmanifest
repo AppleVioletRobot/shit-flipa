@@ -1,6 +1,6 @@
 {
-  "name": "Shit Krita",
-  "short_name": "Shit Krita",
+  "name": "Shit Flipa",
+  "short_name": "Shit Flipa",
   "description": "Almost none of the features. Surprisingly usable.",
   "start_url": "./",
   "scope": "./",
@@ -9,7 +9,7 @@
   "theme_color": "#f3efe5",
   "icons": [
     {
-      "src": "icon.svg",
+      "src": "flipa-icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
