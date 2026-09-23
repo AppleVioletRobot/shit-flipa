@@ -33,6 +33,22 @@ shit-flipa-v…
 
 Do not use generic inherited names such as `alice-studio-autosave`.
 
+## Shared materials
+
+Shit Store is the communal materials cupboard. It supplies assets; apps own behaviour and state.
+
+### Texture rule: sheets, not tiles
+
+A texture represents a **sheet of material**, not a repeating digital pattern.
+
+- A texture must be at least one whole-canvas size at its intended native resolution.
+- Apps **crop; they do not tile**. Avoid repetition and seams.
+- Apps **crop; they do not scale**. The physical character of the material must not change merely to fit a canvas.
+- Texture assets should carry enough scale metadata (for example DPI or pixels-per-mm) for consuming apps to preserve their intended physical scale.
+- A consuming app takes the canvas-sized area it needs from the sheet at native scale. A larger sheet may allow different crops without changing the material itself.
+
+**Material has scale. Crop it; don't resize it.**
+
 ## Forking a sibling
 
 A fork is only the branch point. Copying the files does **not** make the new app independent.
